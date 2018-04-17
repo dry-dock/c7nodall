@@ -10,6 +10,8 @@ npm install -g \
   casperjs@1.1.4 \
   bower@1.8.4
 
+npm install -g --unsafe-perm \
+  phantomjs-prebuilt@2.1.16 
 
 for file in /c7nodall/version/*;
 do
