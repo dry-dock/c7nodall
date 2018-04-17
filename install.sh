@@ -17,3 +17,5 @@ for file in /c7nodall/version/*;
 do
   $file
 done
+echo 'export NVM_DIR="$HOME/.nvm"' >> /etc/drydock/.env
+echo '[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"' >> /etc/drydock/.env
