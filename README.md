@@ -7,8 +7,8 @@ Shippable CI image for node.js on CentOS 7 with commonly used services. Availabl
 
   1.  6.16.0
   2.  8.15.0
-  3.  10.15.0
-  4.  11.6.0
+  3.  10.15.1
+  4.  11.10.0
   
 c7nodall Docker Hub repo: [drydock/c7nodall](https://hub.docker.com/r/drydock/c7nodall/)
   
