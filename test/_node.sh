@@ -5,14 +5,18 @@ echo "nvm ls"
 nvm ls
 printf "\n"
 
-echo "nvm use 6.14.4"
-nvm use 6.14.4
+echo "nvm use 6.16.0"
+nvm use 6.16.0
 printf "\n"
 
-echo "nvm use 8.12.0"
-nvm use 8.12.0
+echo "nvm use 8.15.0"
+nvm use 8.15.0
 printf "\n"
 
-echo "nvm use 10.10.0"
-nvm use 10.10.0
+echo "nvm use 10.15.1"
+nvm use 10.15.1
+printf "\n"
+
+echo "nvm use 11.10.0
+nvm use 11.10.0
 printf "\n"
